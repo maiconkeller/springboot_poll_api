@@ -2,7 +2,7 @@
 -- CREATE DATABASE `poll`;
 
 -- selecionando banco de dados
-USE `poll`;
+-- USE `poll`;
 
 -- criando tabela de votação
 CREATE TABLE `poll` (

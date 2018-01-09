@@ -23,7 +23,7 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfoBuilder().title("Swagger API")
+		return new ApiInfoBuilder().title("Poll API")
 				.description("API REST Documentation").version("1.0").build();
 	}
 	

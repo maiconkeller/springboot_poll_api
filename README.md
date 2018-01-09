@@ -44,3 +44,9 @@ Para compilar o código com Maven (3.5.2)
 $ mvn clean install
 ```
 
+Para executar utilize o comando abaixo:
+
+```
+$ java -jar Poll-0.0.1-SNAPSHOT.jar
+```
+

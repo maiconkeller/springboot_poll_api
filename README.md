@@ -41,12 +41,12 @@ $ git clone https://github.com/maiconkeller/springboot_poll_api.git
 Para compilar o código com Maven (3.5.2)
 
 ```
-$ mvn clean install
+$ mvn clean install -DskipTests
 ```
 
 Para executar utilize o comando abaixo:
 
 ```
-$ java -jar Poll-0.0.1-SNAPSHOT.jar
+$ java -jar target/Poll-0.0.1-SNAPSHOT.jar
 ```
 
